@@ -7,6 +7,7 @@ SITENAME = 'My Site'
 SITEURL = ''
 
 PATH = 'content'
+THEME = 'templates/mytheme'
 
 TIMEZONE = 'America/Edmonton'
 
